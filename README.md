@@ -8,6 +8,6 @@ Add /extension to the URL
 
 For example:
 
-(todolist-jk4a.onrender.com/Work)
+[todolist-jk4a.onrender.com/Work](https://todolist-jk4a.onrender.com/Work)
 
 Generates a **Work** list!
