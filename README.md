@@ -11,3 +11,5 @@ For example:
 [todolist-jk4a.onrender.com/Work](https://todolist-jk4a.onrender.com/Work)
 
 Generates a **Work** list!
+
+You can choose any topics you'd like. Enjoy 🥳
