@@ -13,7 +13,7 @@ app.set("view engine", "ejs")
 main().catch(err => console.log(err));
 
 async function main() {
-  await mongoose.connect("mongodb://0.0.0.0:27017/todolistDB", {   useNewUrlParser: true });
+  await mongoose.connect("mongodb+srv://admin-feifei:Test123@cluster0.ctoxkzi.mongodb.net/todolistDB", {   useNewUrlParser: true });
 }
 
 const itemSchema = new mongoose.Schema({
