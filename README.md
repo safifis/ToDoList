@@ -12,4 +12,4 @@ For example:
 
 Generates a **Work** list!
 
-You can choose any topics you'd like. Enjoy 🥳
+You can choose any topics you'd like. Enjoy. 🥳
